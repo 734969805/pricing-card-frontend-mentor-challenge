@@ -82,7 +82,7 @@ button {
   border-radius: 5px;
 }
 
-button: hover {
+button:hover {
   cursor: pointer;
   background-color: #A9C42D;
   transform: scale(1.02);
