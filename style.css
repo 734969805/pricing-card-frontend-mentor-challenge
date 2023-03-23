@@ -53,7 +53,7 @@ h1, h2, p {
   height: 100%;
   background-color: #2ab2af;
   padding: 15px;
-  flex-basis: 60%;
+  flex-basis: 50%;
 }
 
 #bottom-right-section {
@@ -82,7 +82,7 @@ button {
   color: white;
   background-color: #c0df34;
   border: none;
-  padding: 10px;
+  padding: 5px;
   width: 100%;
   border-radius: 5px;
 }
