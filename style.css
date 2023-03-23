@@ -6,8 +6,11 @@ html {
   font-weight: 400;
 }
 
-body {
-  padding: 20px;
+body{
+min-height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 
 h1, h2, p {
