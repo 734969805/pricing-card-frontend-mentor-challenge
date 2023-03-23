@@ -10,7 +10,7 @@ body {
   padding: 20px;
 }
 
-h2, h4, p {
+h1, h2, p {
   margin: 0;
 }
 
@@ -59,12 +59,12 @@ h2, h4, p {
   padding: 25px;
 }
 
-#top-section h2 {
+#top-section h1 {
   color: #2ab2af;
   margin-bottom: 20px;
 }
 
-#top-section h4 {
+#top-section h2 {
   color: #c0df34;
   margin-bottom: 10px;
 }
